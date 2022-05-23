@@ -1,16 +1,4 @@
-# registration_firebase
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1653311327](https://user-images.githubusercontent.com/96645477/169828910-b753e78f-cae1-4b1a-b899-bde067ec010a.png)
+![Screenshot_1653311332](https://user-images.githubusercontent.com/96645477/169828925-478489c9-decd-4ec9-9b48-8e210873ad61.png)
+![Screenshot_1653311412](https://user-images.githubusercontent.com/96645477/169828942-fa7af1b6-4d83-4c01-b130-27e79d932d32.png)
